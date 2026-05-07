@@ -1,11 +1,11 @@
 {
-  "version": "3.9.1",
-  "notes": "FAHHANG 888 v3.9.1 — stabilization release: public GitHub update mirror, legal readiness, voice UX fixes, Draw close telemetry, and build signing hardening.",
-  "pub_date": "2026-05-07T06:52:57.784Z",
+  "version": "3.9.2",
+  "notes": "JaoMue Pro POS v3.9.2 — rebrand and license operations hotfix.",
+  "pub_date": "2026-05-07T09:12:51.452Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZW4rK3U2NUNpTEh0NWwzeE85bnMxdTZZdjlIUjZwTnBqOFRyRzRWdlo5T3ZsRHNiMkNOdDE0SDFqTVJObWYwS3dGR3lLRU9WYlE2b0dQY1NVMUtPeWpENFZKeWtYY0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTM2NzYxCWZpbGU6RkFISEFORyA4ODhfMy45LjFfeDY0LXNldHVwLmV4ZQpXYko5Sm1UT0g3aGVPdUNudjMwa0YvZWZURWtaTXBmQkdQL2Y2aWJCSEoyZHBSTjF1T09zWjI3Z3hNcjg4V3dOaG1QWGIyREVlVUxxUzdHdk1NbkREZz09Cg==",
-      "url": "https://github.com/nattawapong1150d/fahhang888-updates/releases/download/v3.9.1/FAHHANG.888_3.9.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZW4rK3U2NUNpTEl3R1RHOUw0Mkh5ZmhyK3dESmpqVDNBamlqMWp4MG9wR1BxRXRqaTRRbUd6M0JpSDEwUHBtcHEzN1R1YUdEM2RJSml2SWIwRC9UU3RwZm9lVmVJbGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTQ1MTU0CWZpbGU6SmFvTXVlIFBybyBQT1NfMy45LjJfeDY0LXNldHVwLmV4ZQpCNUdrSXJIUEJZTU9IdVZ4eTMvR3FLbDgySTNCaGJVWk81bVgyWWljajRFWFBjNzAwb0hJc29HSjNXOG9nd0JGU0xkYjhKbjZBSUhGVi9INWNHaGhCUT09Cg==",
+      "url": "https://github.com/nattawapong1150d/fahhang888-updates/releases/download/v3.9.2/JaoMue.Pro.POS_3.9.2_x64-setup.exe"
     }
   }
 }
